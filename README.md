@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a> -->
    <a href="mailto:prokhorenko.g.a@ya.ru&body=HelloWorld">
-    <img src="https://img.shields.io/badge/Email-A60000?style=for-the-badge&logo=Google&logoColor=yellow" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/emaillogo.png" alt="Email" width="120"/>
   </a>
   <a href="https://github.com/Wester35">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=wite" alt="Email"/>
