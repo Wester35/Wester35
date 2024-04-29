@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Communication methods
 <div id="coding" align="center">
-  <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/proger.gif" width="245"/>
+  <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/proger.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -59,5 +59,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<h5 align="right">Wester35&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp😄</h5>
 
-<h5 align="right">Wester35</h5>
