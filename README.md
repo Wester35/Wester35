@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Communication methods
 <div id="coding" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
+  <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/proger.gif" width="245"/>
 </div>
 
 <div id="badges" align="center">
