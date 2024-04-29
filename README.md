@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 
 
 
-# Прохоренко Глеб Алексеевич
-## Я Программист-разработчик 🤔
+# Gleb Prokhorenko
+## I am a Software Developer 🤔
 
-## Московский государственный университет технологий и управления имени К.Г. Разумовского (Первый казачий университет)
-### Университетский колледж информационных технологий
-  09.02.07 Информационные cистемы
-  и программирование
-  Личные качества: пунктуальный, коммуникабельный, многозадачный, целеустремленный,
-  креативный
+## Moscow State University of Technology and Management named after K.G. Razumovsky (First Cossack University)
+### University College of Information Technology
+####  09.02.07 Information Systems and Programming
+  --- 
+  Personal qualities: punctual, sociable, multitasking, purposeful, creative
 
 <div id="about">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
 
-## Способы связи 
+## Communication methods
 <div id="coding" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 </div>
