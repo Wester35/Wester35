@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -  ...
---> -->
+--> 
 
 
----
+
 
 # Прохоренко Глеб Алексеевич
-## Я Программист-разработчик
+## Я Программист-разработчик 🤔
 
 ## Московский государственный университет технологий и управления имени К.Г. Разумовского (Первый казачий университет)
 ### Университетский колледж информационных технологий
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C%23-5944c1?style=for-the-badge&logo=C%23"/>
   <img src="https://img.shields.io/badge/Unity-8A2BE2?style=for-the-badge&logo=Unity"/>
   <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=PostgreSQL"/>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 </div>
 
 ## Способы связи 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/emaillogo.png" alt="Email" width="120"/>
   </a>
   <a href="https://github.com/Wester35">
-    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=GitHub&logoColor=wite" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/GitHub.png" alt="Email" width="120"/>
   </a>
 </div>
 
