@@ -1,12 +1,4 @@
-<!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Gleb</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-⚡ Fun fact: ._?
 <!--
-**Wester35/Wester35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +6,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--  ...
 --> 
 
 
@@ -44,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Communication methods
 <div id="coding" align="center">
-  <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/proger.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/proger.gif" width="500"/>
 </div>
 
 <div id="badges" align="center">
@@ -58,6 +49,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/Wester35/Wester35/main/resources/GitHub.png" alt="Email" width="120"/>
   </a>
 </div>
-
-<h5 align="right">Wester35&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp😄</h5>
+<h5 align="right">Wester35&nbsp&nbsp&nbsp&nbsp&nbsp"-?\d+(\.\d+)?(?![\d.])"&nbsp&nbsp&nbsp&nbsp&nbsp😄</h5>
 
